@@ -1,6 +1,4 @@
-> 下文为[半撇私塾](www.bpteach.com)翻译自[adam-p](https://github.com/adam-p/) 的[Markdown 小抄表](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-
+> 下文为[半撇私塾](www.bpteach.com)翻译自[adam-p](https://github.com/adam-p/) 的[Markdown 小抄表](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)，发布与Github [Markdown Cheetsheet]。
 ##### 目录  
 [标题](#headers)  
 [强调](#emphasis)  
