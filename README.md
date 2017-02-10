@@ -163,8 +163,7 @@ http://www.example.com 或<http://www.example.com> 甚至有时候example.com �
 [超链接文字本身]: http://www.reddit.com
 
 <a name="images"/>
-## Images
-
+## 图片
 ```no-highlight
 这是我们的Logo（把鼠标指向Logo 可以看到标题文字）
 
