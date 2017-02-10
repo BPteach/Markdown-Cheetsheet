@@ -1,11 +1,7 @@
-这篇文章旨在作为Markdown语法快速参考与演示。如果要获取更完整的信息，可以阅读[John Gruber Markdown指南](http://daringfireball.net/projects/markdown/)与[Github-flavored Markdown，简写为GFM）资讯页]( http://github.github.com/github-flavored-markdown/)。
+> 下文为[半撇私塾](www.bpteach.com)翻译自[adam-p](https://github.com/adam-p/) 的[Markdown 小抄表](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-如果你正在找Markdown Here 的小抄表（Cheatsheet），[这里](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)也有一篇。你也可以看看更多Markdown 的工具。
 
-译注：可以参考这份[中文版文件](http://markdown.tw/)，有更详尽的Markdown 语法说明。
-
-##### 目录  
-
+##### 目录  
 [标题](#headers)  
 [强调](#emphasis)  
 [列表](#lists)  
